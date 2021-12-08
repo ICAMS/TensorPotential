@@ -1,0 +1,2 @@
+include versioneer.py
+include src/tensorpotential/_version.py
