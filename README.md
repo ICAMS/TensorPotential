@@ -1,6 +1,6 @@
 # TensorPotential
 
-`Tensorpotentil` is a TensorFlow based tool for development, fitting ML interatomic potentials from electronic structure
+`Tensorpotential` is a TensorFlow based tool for development, fitting ML interatomic potentials from electronic structure
 calculations data and perform computations using these potentials. Documentation is coming soon<sup>TM</sup> ...
 
 ## Potentials
