@@ -5,4 +5,4 @@ calculations data and perform computations using these potentials. Documentation
 
 ## Potentials
 Only Atomic Cluster Expansion (ACE) is available at the moment, and it is intended to be used via `pacemaker` interface.
-Please see `python-ace` page for details. 
+Please see [`python-ace`](https://github.com/ICAMS/python-ace) page for details. 
