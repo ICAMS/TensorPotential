@@ -19,7 +19,7 @@ setup(
     install_requires=
     [
     'scipy>=1.4.1',
-    'tensorflow>=2.5',
+    'tensorflow<=2.7',
     'numpy==1.19.4',
     'pandas',
     'ase'
