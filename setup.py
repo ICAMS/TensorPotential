@@ -15,12 +15,12 @@ setup(
     author='Anton Bochkarev',
     author_email='',
     description='',
-    python_requires='<3.9',
+    python_requires='<=3.9',
     install_requires=
     [
-    'scipy>=1.4.1',
-    'tensorflow<=2.7',
-    'numpy==1.19.4',
+    'scipy',
+    'tensorflow<=2.9.1',
+    'numpy',
     'pandas',
     'ase'
     ]
