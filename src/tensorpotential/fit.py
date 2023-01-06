@@ -135,6 +135,8 @@ class FitTensorPotential:
 
                 self.fit_coefs = self.tensorpot.potential.get_coefs().numpy()
                 self.callback(self.fit_coefs)
+        else:
+            raise ValueError("Unknown optimizer `{}`. Should be one of {}".format(optimizer, NUMPY_OPTIMIZERS+TF_OPTIMIZERS))
 
         if save_coefs:
             self.save_coefs()
