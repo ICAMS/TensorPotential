@@ -15,7 +15,7 @@ setup(
     author='Anton Bochkarev',
     author_email='',
     description='',
-    python_requires='<=3.9',
+    python_requires='<3.10',
     install_requires=
     [
     'scipy',
