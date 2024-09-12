@@ -86,7 +86,7 @@ __pacemaker__  is published and distributed under the Academic Software License 
 
 __pacemaker__  is distributed in the hope that it will be useful for non-commercial academic research, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the ASL for more details. 
 
-You should have received a copy of the ASL along with this program;  It is also published at https://github.com/ICAMS/python-ace/blob/master/LICENSE.md .
+You should have received a copy of the ASL along with this program;  It is also published at https://github.com/ICAMS/TensorPotential/blob/main/LICENSE.md
 
 You may contact the licensor at __contact@aceworks.works__
 
